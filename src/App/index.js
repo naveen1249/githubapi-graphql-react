@@ -10,6 +10,7 @@ class App extends Component {
     return (
 
         <div className="App">
+        <h2>reactjs/reactjs.org</h2>
         <Issues
           repositoryName={'reactjs.org'}
           repositoryOwner={'reactjs'}
